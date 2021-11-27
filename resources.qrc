@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="ui">
+    <file>better GoZ icon.png</file>
+    <file alias="ic_add.png">add_48dp.png</file>
+    <file>cb_checked-01.png</file>
+    <file>cb_unchecked-01.png</file>
+    <file>bettergoz.png</file>
+    <file>bettergoz.ui</file>
+    <file>sync_48dp.png</file>
+  </qresource>
+</RCC>
